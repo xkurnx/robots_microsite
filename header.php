@@ -81,10 +81,10 @@ var memberProxyUrl = 'http://www.topcoder.com/roadshow/wp-content/plugins/home-e
     	<a id="siteLogo" href="http://www.nasa.gov/coeci/ntl/#.U2kuDvldWA8">
 			<img src="<?php bloginfo("stylesheet_directory");?>/i/NTL_Logo.png" alt=""/>
 		</a>
-    <span class="shadowSep"></span>
+    <!-- <span class="shadowSep"></span>
 		<a>
 			<img src="<?php bloginfo("stylesheet_directory");?>/i/asteroid_logo.png" alt=""/>
 		</a>
-      
+    -->  
       
     </div>

@@ -993,8 +993,8 @@ tbody table.noBorder tr td{
 	background:none;
 	list-style: none;
 	float: left;
-	width: 203px;
-	padding-left: 40px;
+	width: 260px;
+	margin:0px 15px;
 }
 #homePage #homeBanner .info li.first{
 	padding-left: 0;
